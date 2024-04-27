@@ -1,2 +1,3 @@
-# myrepo
-Repository for testing my Git/GitHub setup
+# fBISG information and context
+
+fBISG - Prediction of individuals’ race and ethnicity plays an important role in studies of racial disparity. Bayesian Improved Surname Geocoding (BISG), which relies on detailed census information, has emerged as a leading methodology for this prediction task. We introduce a fully Bayesian Improved Surname Geocoding (fBISG) methodology that accounts for potential measurement error in Census counts by extending the naïve Bayesian inference of the BISG methodology to full posterior inference. To address the missing surname problem, we supplement the Census surname data with additional data on last, first, and middle names taken from the voter files of six Southern states where self-reported race is available.
