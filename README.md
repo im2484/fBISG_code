@@ -1,8 +1,4 @@
 
-## Data Source
-
-Data was obtained via an Open Public Records Act request with the New Jersey Department of Elections. The data was provided in individual csv files for all 21 counties in New Jersey and contains registered voter's first and last name, party affiliation, date of birth, and voter address. 
-
 ## About fBISG
 Social scientists and public health researchers often must predict individual race and ethnicity when assessing disparities in policy and health outcomes. Bayesian Improved Surname Geocoding (BISG), which uses Bayes’ rule to combine information from the census surname list with the geocoding of individual residence, has emerged as a leading methodology for this prediction task 
 
@@ -10,7 +6,11 @@ We introduce a fully Bayesian Improved Surname Geocoding (fBISG) methodology tha
 
 Note: fBISG is only as accurate as the data available to it and is an estimate not a certainty. It should be treated as such.
 
-More information on [fBISG available here](https://www.science.org/doi/10.1126/sciadv.adc9824). 
+More information on [fBISG is available here](https://www.science.org/doi/10.1126/sciadv.adc9824). 
+
+## Data Source
+
+Data was obtained via an Open Public Records Act request with the New Jersey Department of Elections. The data was provided in individual CSV files for all 21 counties in New Jersey and contains registered voter's first and last name, party affiliation, date of birth, and voter address. 
 
 ## Methodology
 
