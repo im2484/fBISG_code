@@ -63,4 +63,8 @@ We choose to sum the mean race probability of each distance interval rather than
 - ### Follow up
   - per Migration Policy Institute (MPI) there are an estimated 440,000 unauthorized immigrants in NJ, 314,000 of which would be classified as Hispanic/Latino, 97,000 of which would be classified as Asian.
 
-  -  we suspect that the populations missing from our data [due to ineligibility to register to vote] would  exacerbate our fbisg disparity findings. 
+  -  we suspect that the populations missing from our data [due to ineligibility to register to vote] would  exacerbate our fbisg disparity findings.
+
+## Credit
+
+[Kosuke Imai, wru package](https://github.com/kosukeimai/wru) 
